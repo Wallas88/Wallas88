@@ -4,7 +4,7 @@ Web developer in Pretoria, South Africa. I run **[SiteReviveSA](https://siterevi
 
 ## What I work with
 
-React, Vite, JavaScript, HTML/CSS · Node and Express · SQLite · Cloudflare Workers · Netlify · WordPress · Git
+TypeScript, React, Vite, HTML/CSS · Node and Express · SQLite · Cloudflare Workers · WordPress · Git
 
 ## Public work
 
